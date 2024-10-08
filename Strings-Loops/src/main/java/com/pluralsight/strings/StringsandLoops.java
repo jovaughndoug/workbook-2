@@ -37,7 +37,7 @@ public class StringsandLoops {
                                 Eggs 
                                             Chees 
                     """;
-            System.out.println(newlist);
+            System.out.println(newlist.toUpperCase());
 
         }
 
